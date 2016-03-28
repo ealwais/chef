@@ -1,0 +1,49 @@
+{
+  "create": {
+    "actors": [
+      "newmachinejkljk0",
+      "pivotal"
+    ],
+    "groups": [
+      "admins"
+    ]
+  },
+  "read": {
+    "actors": [
+      "newmachinejkljk0",
+      "pivotal"
+    ],
+    "groups": [
+      "admins",
+      "users"
+    ]
+  },
+  "update": {
+    "actors": [
+      "newmachinejkljk0",
+      "pivotal"
+    ],
+    "groups": [
+      "admins"
+    ]
+  },
+  "delete": {
+    "actors": [
+      "newmachinejkljk0",
+      "pivotal"
+    ],
+    "groups": [
+      "admins",
+      "users"
+    ]
+  },
+  "grant": {
+    "actors": [
+      "newmachinejkljk0",
+      "pivotal"
+    ],
+    "groups": [
+      "admins"
+    ]
+  }
+}

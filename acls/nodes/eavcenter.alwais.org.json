@@ -1,0 +1,53 @@
+{
+  "create": {
+    "actors": [
+      "eavcenter.alwais.org",
+      "pivotal"
+    ],
+    "groups": [
+      "admins",
+      "clients",
+      "users"
+    ]
+  },
+  "read": {
+    "actors": [
+      "eavcenter.alwais.org",
+      "pivotal"
+    ],
+    "groups": [
+      "admins",
+      "clients",
+      "users"
+    ]
+  },
+  "update": {
+    "actors": [
+      "eavcenter.alwais.org",
+      "pivotal"
+    ],
+    "groups": [
+      "admins",
+      "users"
+    ]
+  },
+  "delete": {
+    "actors": [
+      "eavcenter.alwais.org",
+      "pivotal"
+    ],
+    "groups": [
+      "admins",
+      "users"
+    ]
+  },
+  "grant": {
+    "actors": [
+      "eavcenter.alwais.org",
+      "pivotal"
+    ],
+    "groups": [
+      "admins"
+    ]
+  }
+}

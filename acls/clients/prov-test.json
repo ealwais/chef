@@ -1,0 +1,49 @@
+{
+  "create": {
+    "actors": [
+      "pivotal",
+      "prov-test"
+    ],
+    "groups": [
+      "admins"
+    ]
+  },
+  "read": {
+    "actors": [
+      "pivotal",
+      "prov-test"
+    ],
+    "groups": [
+      "admins",
+      "users"
+    ]
+  },
+  "update": {
+    "actors": [
+      "pivotal",
+      "prov-test"
+    ],
+    "groups": [
+      "admins"
+    ]
+  },
+  "delete": {
+    "actors": [
+      "pivotal",
+      "prov-test"
+    ],
+    "groups": [
+      "admins",
+      "users"
+    ]
+  },
+  "grant": {
+    "actors": [
+      "pivotal",
+      "prov-test"
+    ],
+    "groups": [
+      "admins"
+    ]
+  }
+}
